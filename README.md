@@ -65,6 +65,7 @@ Files:
 ## 📂 Project Structure
 
 data_mining/
+
 ├── ExerciseSheet1_Clustering.ipynb
 ├── exercisesheet1_clustering.py
 ├── ExerciseSheet2_Causality.ipynb
