@@ -1,4 +1,4 @@
-# ⛏️ Data Mining – Course Exercises
+# ⛏️ Data Mining
 
 This repository contains my implementations and solutions for a university-level **Data Mining** course.
 
