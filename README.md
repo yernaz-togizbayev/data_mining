@@ -64,8 +64,8 @@ Files:
 
 ## 📂 Project Structure
 
+```text
 data_mining/
-
 ├── ExerciseSheet1_Clustering.ipynb
 ├── exercisesheet1_clustering.py
 ├── ExerciseSheet2_Causality.ipynb
@@ -75,6 +75,7 @@ data_mining/
 ├── exercisesheet3_deeplearning.py
 ├── Tasks/
 └── README.md
+```
 
 ---
 
